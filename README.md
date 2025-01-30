@@ -13,3 +13,5 @@ Set `PKCS11_SOFTHSM2_MODULE` according to the location of the softhsm pkcs11 lib
 
 Then run: `cargo run`
 
+Several assertions fail: track https://github.com/softhsm/SoftHSMv2/issues/782
+
